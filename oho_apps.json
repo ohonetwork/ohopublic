@@ -1,0 +1,93 @@
+[
+  {
+    "author": "Oho Swap",
+    "id": "ohoswap",
+    "title": "Oho Swap",
+    "description": "Oho Decentralized Exchange",
+    "shortDescription": "Oho Decentralized Exchange",
+    "site": "https://ohoswap.com/",
+    "url": "https://ohoswap.com/",
+    "external": true,
+    "internalWallet": false,
+    "categories": ["Swaps", "Liquidity", "Staking", "DeFi"],
+    "logo": "https://oho.ai/wp-content/uploads/2024/05/ohoswap.png"
+  },
+  {
+    "author": "Oho Universal Multisender",
+    "id": "ohomultisender",
+    "title": "Oho Universal Multisender",
+    "description": "Send $OHO or any EVM-compatible tokens to multiple addresses at once",
+    "shortDescription": "Send $OHO or any EVM-compatible tokens to multiple addresses at once",
+    "site": "https://multisender.oho.ai/",
+    "url": "https://multisender.oho.ai/",
+    "external": true,
+    "internalWallet": false,
+    "categories": ["Tools"],
+    "logo": "https://oho.ai/wp-content/uploads/2024/05/ohomultisender.png"
+  },
+  {
+    "author": "Oho Universal Token Creator",
+    "id": "ohotokencreator",
+    "title": "Oho Universal Token Creator",
+    "description": "Create tokens on Oho chain or any EVM-compatible chain for free",
+    "shortDescription": "Create tokens on Oho chain or any EVM-compatible chain for free",
+    "site": "https://createtoken.oho.ai/",
+    "url": "https://createtoken.oho.ai/",
+    "external": true,
+    "internalWallet": false,
+    "categories": ["Tools"],
+    "logo": "https://oho.ai/wp-content/uploads/2024/05/ohotokencreator.png"
+  },
+  {
+    "author": "Oho Staking",
+    "id": "ohostaking",
+    "title": "Oho Staking",
+    "description": "Stake $OHO and earn auto-compound stake rewards at 2.00%/year",
+    "shortDescription": "Stake $OHO and earn auto-compound stake rewards at 2.00%/year",
+    "site": "https://ohoswap.com/#/stake",
+    "url": "https://ohoswap.com/#/stake",
+    "external": true,
+    "internalWallet": false,
+    "categories": ["Tools"],
+    "logo": "https://oho.ai/wp-content/uploads/2024/05/ohostaking.png"
+  },
+  {
+    "author": "Oho Trading Bot",
+    "id": "ohobot",
+    "title": "Oho Trading Bot",
+    "description": "State-of-the-art market making bots",
+    "shortDescription": "State-of-the-art market making bots",
+    "site": "https://ohotradingbot.com/",
+    "url": "https://ohotradingbot.com/",
+    "external": true,
+    "internalWallet": false,
+    "categories": ["Bots", "Trading"],
+    "logo": "https://oho.ai/wp-content/uploads/2024/05/ohobot.png"
+  },
+  {
+    "author": "Oho Web Wallet",
+    "id": "ohobot",
+    "title": "Oho Web Wallet",
+    "description": "Simple web wallet to keep $OHO",
+    "shortDescription": "Simple web wallet to keep $OHO",
+    "site": "https://webwallet.oho.ai/",
+    "url": "https://webwallet.oho.ai/",
+    "external": true,
+    "internalWallet": false,
+    "categories": ["Wallets"],
+    "logo": "https://oho.ai/wp-content/uploads/2024/05/ohowebwallet.png"
+  },
+  {
+    "author": "MetaMask Wallet",
+    "id": "metamask",
+    "title": "Metamask Wallet",
+    "description": "The Ultimate Crypto Wallet for DeFi, Web3 Apps, NFT",
+    "shortDescription": "The Ultimate Crypto Wallet for DeFi, Web3 Apps, NFT",
+    "site": "https://metamask.io/",
+    "url": "https://metamask.io/download/",
+    "external": true,
+    "internalWallet": false,
+    "categories": ["Wallets", "DeFi"],
+    "logo": "https://oho.ai/wp-content/uploads/2024/05/metamask.png"
+  }
+]
