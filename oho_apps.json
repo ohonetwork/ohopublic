@@ -48,7 +48,7 @@
     "url": "https://ohoswap.com/#/stake",
     "external": true,
     "internalWallet": false,
-    "categories": ["Tools"],
+    "categories": ["Staking"],
     "logo": "https://oho.ai/wp-content/uploads/2024/05/ohostaking.png"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "author": "Oho Web Wallet",
-    "id": "ohobot",
+    "id": "webwallet",
     "title": "Oho Web Wallet",
     "description": "Simple web wallet to keep $OHO",
     "shortDescription": "Simple web wallet to keep $OHO",
