@@ -13,7 +13,7 @@
   "tokens": [
     {
       "name": "Oho",
-      "symbol": "$OHO",
+      "symbol": "OHO",
       "address": "0x0576FaD3B0df2722d6bA73E0d37F0658f8cf10cD",
       "chainId": 56,
       "decimals": 18,
