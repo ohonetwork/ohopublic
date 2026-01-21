@@ -65,32 +65,6 @@
     "logo": "https://oho.ai/wp-content/uploads/2024/05/ohowebwallet.png"
   },
   {
-    "author": "Oho Testnet Explorer",
-    "id": "Oho Testnet",
-    "title": "Oho Testnet Explorer",
-    "description": "Explorer for Oho Testnet",
-    "shortDescription": "Explorer for Oho Testnet",
-    "site": "https://testnet.oho.ai/",
-    "url": "https://testnet.oho.ai/",
-    "external": true,
-    "internalWallet": false,
-    "categories": ["Tools"],
-    "logo": "https://oho.ai/wp-content/uploads/2024/08/ohotestnet.png"
-  },
-  {
-    "author": "Oho Testnet Faucet",
-    "id": "Oho Faucet",
-    "title": "Oho Testnet Faucet",
-    "description": "Faucet to drop free $OHOt (Oho Testnet)",
-    "shortDescription": "Faucet to drop free $OHOt (Oho Testnet)",
-    "site": "https://faucet.oho.ai/",
-    "url": "https://faucet.oho.ai/",
-    "external": true,
-    "internalWallet": false,
-    "categories": ["Tools"],
-    "logo": "https://oho.ai/wp-content/uploads/2024/08/ohofaucet.png"
-  },
-  {
     "author": "MetaMask Wallet",
     "id": "metamask",
     "title": "Metamask Wallet",
@@ -104,3 +78,4 @@
     "logo": "https://oho.ai/wp-content/uploads/2024/05/metamask.png"
   }
 ]
+
